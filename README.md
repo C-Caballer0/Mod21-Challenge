@@ -1,3 +1,3 @@
-Book Search Engine.
+Book Search Engine 
 
-An application that allows the user to search for and make requests of books stored withing the applications database
+An aplication allowing users to search for their favourite books and view its stats and metrics
